@@ -982,7 +982,4 @@ https://volcanopull.aniu.tv/live/aniu2/index.m3u8
 
 
 
-#EXTINF:-1 group-title="👙模特直播" tvg-name="爱吃桃子的喵" tvg-logo="" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",爱吃桃子的喵
-
-
 
